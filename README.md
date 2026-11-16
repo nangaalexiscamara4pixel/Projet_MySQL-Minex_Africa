@@ -4,6 +4,8 @@
 ![Project](https://img.shields.io/badge/Type-Data%20Analysis-16a34a?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
+> **🇬🇧 In English:** MINEX AFRICA is a fictional mining company analysed with **MySQL**. I designed a 5-table relational database (sites, employees, ores, extractions, sales), wrote **28 SQL queries across 6 difficulty levels** (filters, aggregations, joins, subqueries) and produced **7 KPIs** for management: revenue, extracted volumes, extraction costs, headcount, number of sites, ores and sales.
+
 ## Présentation du projet
 
 **MINEX AFRICA** est un projet fictif d'analyse de données réalisé avec **MySQL**, dans le cadre de la mise en pratique des compétences en SQL et en analyse de données.
@@ -138,11 +140,9 @@ Le projet permet de calculer sept indicateurs principaux :
 ### 2. Cloner le dépôt
 
 ```bash
-git clone https://github.com/VOTRE-USERNAME/minex-africa-sql.git
-cd minex-africa-sql
+git clone https://github.com/nangaalexiscamara4pixel/Projet_MySQL-Minex_Africa.git
+cd Projet_MySQL-Minex_Africa
 ```
-
-Remplacez `VOTRE-USERNAME` par votre nom d'utilisateur GitHub.
 
 ### 3. Importer le projet
 
@@ -183,5 +183,4 @@ Ce projet a été réalisé dans le cadre de mon apprentissage pratique de l'ana
 
 ## Licence
 
-Ce projet est destiné à des fins pédagogiques et de démonstration de compétences.# Projet_MySQL-Minex_Africa
-Ce projet est basé sur une entreprise fictive du nom de Minex_Africa evoluant dans le domaine minier contexte Africain
+Ce projet est destiné à des fins pédagogiques et de démonstration de compétences.
